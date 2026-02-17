@@ -1,0 +1,6 @@
+#WAP to demonstrate the use of continue statement.
+
+for i in range(1,15):
+    if i==10:
+        continue
+    print(i)
